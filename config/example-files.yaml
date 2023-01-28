@@ -1,0 +1,6 @@
+- filename: "README.md"
+  filetype: ""
+- filename: "package.json"
+  filetype: "json"
+- filename: "docker-compose.yaml"
+  filetype: "yaml"
